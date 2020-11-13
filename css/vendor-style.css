@@ -70,6 +70,11 @@ body {
 .img_starter{
   padding: 0px 0 20px 0;
 }
+/*About*/
+.about_img{
+  width: 50%;
+  margin: 0 0 0 20px;
+}
 /*Gallery*/
 .photo-gallery {
   color:#313437;
